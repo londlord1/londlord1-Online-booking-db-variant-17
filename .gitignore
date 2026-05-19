@@ -1,1 +1,18 @@
 
+# Временные файлы
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.bak
+
+# Системные файлы macOS
+.AppleDouble
+.LSOverride
+Icon
+
+# Файлы редакторов
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
